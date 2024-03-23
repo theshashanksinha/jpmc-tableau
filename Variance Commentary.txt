@@ -1,0 +1,13 @@
+Variance Commentary:
+
+
+
+1. Revenue Variance: The overall revenue variance is positive, amounting to $496,500 or 9% above the budgeted amount. This increase can be attributed to higher-than-expected sales of Product 2, which generated an additional $800,000 in revenue due to the increased quantity sold. However, the variance was partially offset by a decrease in sales of Product 1, resulting in a loss of $300,000. Despite this, the overall revenue exceeded expectations.
+
+2. Materials Costs Variance: The materials cost variance shows a mixed result. While the costs for Product 1 were higher than anticipated, with a variance of $60,000 or 12% over budget, there was a significant cost reduction for Product 2, resulting in a favourable conflict of $160,000 or -32%. The overall impact of the materials costs variance was a reduction in expenses.
+
+3. Labor Costs Variance: The labour costs variance also presents a mixed outcome. The labour costs for Product 1 were higher than expected, with a conflict of $20,000 or 20% over budget. On the other hand, there was a favourable variance for Product 2, with costs lower than anticipated by $20,000 or -8%. Overall, the impact of labour costs variance on expenses was mitigated.
+
+4. Overhead Variance: The overhead variance indicates a reduction in expenses, with a favourable variance of $200,000 or -20% below the budgeted amount. This decrease in overhead costs contributed to the overall improvement in profitability.
+
+5. Profit Variance: The final profit variance is positive, with a $204,250 increase or 6% above the budgeted profit. This improvement can be attributed to higher revenues from Product 2 and effective cost management, particularly in materials costs and overhead. Despite the loss incurred from lower sales of Product 1, the company managed to achieve a higher profit than initially expected.
