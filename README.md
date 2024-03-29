@@ -23,4 +23,4 @@ This project simulates key tasks from a Global Finance and Business Management (
 * Data storytelling
 
 ## Report Preview
-![Tableau Dashboard Screenshot](/images/Project-Wise-Analysis-for-JPMC.jpg)
+![Final Report](/images/Report.jpg)
