@@ -1,26 +1,13 @@
 # Project Title: JPMorgan Chase & Co. GFBM Internship
 
 ## Overview
+In this project emulating the GFBM internship program at JPMorgan Chase & Co., I meticulously analyzed 5 pivotal company projects. Throughout this endeavor, I achieved the following milestones:
 
-This project simulates key tasks from a Global Finance and Business Management (GFBM) internship at JPMorgan Chase & Co. I honed my skills in data visualization, financial analysis, and presentation development.
+* Fabricated a Tableau Visualization Dashboard, facilitating comprehensive data interpretation.
+* Crafted a Compelling PowerPoint Presentation, adeptly communicating crucial insights and narrating a captivating storyline regarding the project portfolio.
+* Executed Meticulous Variance Analysis on financial statements, resulting in the articulation of concise and insightful commentary.
 
-## Key Accomplishments
-
-* **Data Visualization:** Constructed an informative Tableau dashboard to communicate insights effectively from a provided dataset.
-* **Financial Analysis:** Performed variance analysis on a financial statement and produced clear written commentary on the findings.
-* **Presentation Skills:** Crafted a compelling PowerPoint presentation designed to share key project ideas and insights with stakeholders.
-
-## Technical Skills
-
-* Tableau (Dashboard creation)
-* Excel (Financial analysis)
-* PowerPoint (Presentation design)
-
-## Additional Skills
-
-* Variance analysis
-* Written communication
-* Data storytelling
+My proficiency encompasses Tableau for dashboard creation, Excel for conducting in-depth financial analysis, and PowerPoint for masterful presentation design. These technical skills are further enhanced by my prowess in variance analysis, written communication, and data storytelling.
 
 ## Report Preview
 ![Final Report](/images/Report.jpg)
